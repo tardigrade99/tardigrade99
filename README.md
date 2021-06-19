@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tardigrade99
+<!--- 
 - 👀 I’m interested in AI, Data and Cyber Security
- <!--- 
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
